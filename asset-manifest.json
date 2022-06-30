@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/nameit-react-app/static/css/main.42704e5d.css",
-    "main.js": "/nameit-react-app/static/js/main.233bd48d.js",
+    "main.js": "/nameit-react-app/static/js/main.bbb4c027.js",
     "index.html": "/nameit-react-app/index.html",
     "main.42704e5d.css.map": "/nameit-react-app/static/css/main.42704e5d.css.map",
-    "main.233bd48d.js.map": "/nameit-react-app/static/js/main.233bd48d.js.map"
+    "main.bbb4c027.js.map": "/nameit-react-app/static/js/main.bbb4c027.js.map"
   },
   "entrypoints": [
     "static/css/main.42704e5d.css",
-    "static/js/main.233bd48d.js"
+    "static/js/main.bbb4c027.js"
   ]
 }
